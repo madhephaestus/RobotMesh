@@ -15,7 +15,7 @@ vex::competition Competition;
 void pre_auton() {
     // All activities that occur before competition start
     // Example: setting initial positions
-    // Test comment
+
 }
 
 void autonomous() {
